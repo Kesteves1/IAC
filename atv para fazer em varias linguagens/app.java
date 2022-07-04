@@ -57,6 +57,6 @@ public class app{
         } else if (P == 6) {
             System.out.println("O participante não venceu nenhuma partida e foi desclassificado.");
         }
-
+        key.close();
     }
 }
